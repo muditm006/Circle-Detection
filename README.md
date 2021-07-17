@@ -1,3 +1,1 @@
-# Circle Detection
-
-The objective is to code a program that when inputted a video with a rolling can, will process it, find the largest circle in the can overlayed, with its center marked in a different color. 
+The objective is to code a program that when inputted a video with a rolling can, will process it, find the largest circle in the can overlayed, with its center marked in a different color. The program will be written using several imported libraries: OpenCV, NumPy, Math, and build in methods including cv2.circle() (for creating and overlaying the circle), Hough_Gradient() (for identifying the circle), and cv2.getPerspective() and related libraries to work with the 3D pictures transformations. All libraries are native to Python 3. 
